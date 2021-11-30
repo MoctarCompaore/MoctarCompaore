@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoctarCompaore
-- 👀 I’m a software developer, speficaly web applications
+- 👀 I’m a software developer, specificaly web applications
 - 🌱 I’m currently learning  cybersecurity, and blockhain technologies
 - 📫 To reach me  just let me email on moctar.compaore@gmail.com
 
